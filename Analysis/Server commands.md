@@ -15,7 +15,7 @@
 {
   "action": "water",
   "data": {
-    "state": "0"
+  "state": "0"
   }
 }
 ```

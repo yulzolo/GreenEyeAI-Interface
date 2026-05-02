@@ -51,7 +51,7 @@
 - GitHub
 - ChatGPT
 - Qwen
-- DeepSeak
+- DeepSeek
 - Gemini
 - YouTube
 
